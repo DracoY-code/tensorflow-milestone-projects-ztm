@@ -26,9 +26,7 @@ Some important resources:
 * [Jay Alammar: The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
 
 ## MP3: BitPredict 📈
-The aim of this project is to build a time series forecasting model to predict the price of Bitcoin based on its past trends.
-
-This project also focuses on learning and understanding the caveats of generating forecasts on different kinds of data.
+The aim of this project is to build a time series forecasting model to predict the price of Bitcoin based on its past trends. This project also focuses on learning and understanding the caveats of generating forecasts on different kinds of data.
 
 The research paper(s) referenced:
 - [Oreshkin, B. N., Carpov, D., Chapados, N., & Bengio, Y. (2019). N-BEATS: Neural basis expansion analysis for interpretable time series forecasting.](https://arxiv.org/abs/1905.10437)
